@@ -1,0 +1,1567 @@
+.mediaViewInfo {
+	--web-view-name: Camaro;
+	--web-view-id: Camaro;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Camaro;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Camaro {
+	position: absolute;
+	width: 1920px;
+	height: 7999px;
+	background-color: rgba(238,238,238,1);
+	overflow: hidden;
+	--web-view-name: Camaro;
+	--web-view-id: Camaro;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_2239 {
+	fill: rgba(246,248,253,1);
+}
+.Rectangle_2239 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 7999px;
+	left: 0px;
+	top: 0px;
+}
+#Group_2869 {
+	opacity: 0.02;
+	position: absolute;
+	width: 475.998px;
+	height: 713.997px;
+	left: 1392.002px;
+	top: 247px;
+	overflow: visible;
+}
+#Path_4216 {
+	fill: rgba(107,29,87,1);
+}
+.Path_4216 {
+	overflow: visible;
+	position: absolute;
+	width: 238px;
+	height: 237.999px;
+	left: 80.016px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4217 {
+	fill: rgba(107,29,87,1);
+}
+.Path_4217 {
+	overflow: visible;
+	position: absolute;
+	width: 473.945px;
+	height: 356.999px;
+	left: 2.053px;
+	top: 119px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4218 {
+	fill: rgba(107,29,87,1);
+}
+.Path_4218 {
+	overflow: visible;
+	position: absolute;
+	width: 472.98px;
+	height: 240.051px;
+	left: 0px;
+	top: 473.946px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Footer {
+	position: absolute;
+	width: 1920px;
+	height: 106px;
+	left: 0px;
+	top: 7893px;
+	overflow: visible;
+}
+#Rectangle_555 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(230,230,230,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_555 {
+	position: absolute;
+	overflow: visible;
+	width: 1919.5px;
+	height: 106px;
+	left: 0px;
+	top: 0px;
+}
+#Line_6 {
+	fill: transparent;
+	stroke: rgba(230,230,230,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 1919.5px;
+	height: 1px;
+	left: 0.5px;
+	top: 105.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_7 {
+	fill: transparent;
+	stroke: rgba(226,226,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 48px;
+	left: 608.676px;
+	top: 31.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_8 {
+	fill: transparent;
+	stroke: rgba(226,226,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 48px;
+	left: 1078.219px;
+	top: 31.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_9 {
+	fill: transparent;
+	stroke: rgba(226,226,226,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_9 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 48px;
+	left: 1476.115px;
+	top: 31.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Social {
+	position: absolute;
+	width: 155.405px;
+	height: 26.26px;
+	left: 1627.234px;
+	top: 39.638px;
+	overflow: visible;
+}
+#twitter_5 {
+	fill: rgba(3,169,244,1);
+}
+.twitter_5 {
+	overflow: visible;
+	position: absolute;
+	width: 26.291px;
+	height: 21.361px;
+	left: 129.115px;
+	top: 2.682px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#facebook_6 {
+	fill: rgba(40,56,206,1);
+}
+.facebook_6 {
+	overflow: visible;
+	position: absolute;
+	width: 11.996px;
+	height: 23.992px;
+	left: 71.74px;
+	top: 1.324px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#instagram_2 {
+	position: absolute;
+	width: 26.26px;
+	height: 26.26px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_2848 {
+	position: absolute;
+	width: 26.26px;
+	height: 26.26px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_2847 {
+	position: absolute;
+	width: 26.26px;
+	height: 26.26px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_18046_bf {
+	fill: url(#Path_18046_bf);
+}
+.Path_18046_bf {
+	overflow: visible;
+	position: absolute;
+	width: 26.26px;
+	height: 26.26px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_2850 {
+	position: absolute;
+	width: 13.13px;
+	height: 13.13px;
+	left: 6.566px;
+	top: 6.565px;
+	overflow: visible;
+}
+#Group_2849 {
+	position: absolute;
+	width: 13.13px;
+	height: 13.13px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_18047_bj {
+	fill: url(#Path_18047_bj);
+}
+.Path_18047_bj {
+	overflow: visible;
+	position: absolute;
+	width: 13.129px;
+	height: 13.13px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_2852 {
+	position: absolute;
+	width: 1.75px;
+	height: 1.75px;
+	left: 19.313px;
+	top: 5.198px;
+	overflow: visible;
+}
+#Group_2851 {
+	position: absolute;
+	width: 1.75px;
+	height: 1.75px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_75_bn {
+	fill: url(#Ellipse_75_bn);
+}
+.Ellipse_75_bn {
+	position: absolute;
+	overflow: visible;
+	width: 1.75px;
+	height: 1.75px;
+	left: 0px;
+	top: 0px;
+}
+#Shop {
+	left: 665.443px;
+	top: 43.5px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(34,35,43,1);
+	text-transform: uppercase;
+}
+#Shop_bp {
+	left: 840.098px;
+	top: 43.5px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(34,35,43,1);
+	text-transform: uppercase;
+}
+#Shop_bq {
+	left: 1148.035px;
+	top: 41.5px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(34,35,43,1);
+	text-transform: uppercase;
+}
+#Magazine {
+	left: 981.377px;
+	top: 43.5px;
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(34,35,43,1);
+	text-transform: uppercase;
+}
+#Camaro_bs {
+	left: 741px;
+	top: 247px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	height: 67px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(104,29,89,1);
+}
+#Group_9887 {
+	position: absolute;
+	width: 1920px;
+	height: 1883.566px;
+	left: 0px;
+	top: 439px;
+	overflow: visible;
+}
+#VehicleSub-Image1-637074334980 {
+	position: absolute;
+	width: 966px;
+	height: 611px;
+	left: 0px;
+	top: 17px;
+	overflow: visible;
+}
+#VehicleSub-Image2-637074335068 {
+	position: absolute;
+	width: 993px;
+	height: 628px;
+	left: 927px;
+	top: 0px;
+	overflow: visible;
+}
+#GAL-EXT-2 {
+	position: absolute;
+	width: 781.018px;
+	height: 500.339px;
+	left: 946.688px;
+	top: 705px;
+	overflow: visible;
+}
+#GAL-INT-1 {
+	position: absolute;
+	width: 781.018px;
+	height: 500.339px;
+	left: 165.67px;
+	top: 705px;
+	overflow: visible;
+}
+#GAL-EXT-3 {
+	position: absolute;
+	width: 1040.369px;
+	height: 666.487px;
+	left: 165.67px;
+	top: 1212.375px;
+	overflow: visible;
+}
+#GAL-INT-4 {
+	position: absolute;
+	width: 521.664px;
+	height: 334.191px;
+	left: 1206.039px;
+	top: 1212.375px;
+	overflow: visible;
+}
+#GAL-EXT-5 {
+	position: absolute;
+	width: 521.664px;
+	height: 334.191px;
+	left: 1206.039px;
+	top: 1549.375px;
+	overflow: visible;
+}
+#INTERIOR_FEATURES {
+	left: 560px;
+	top: 2395px;
+	position: absolute;
+	overflow: visible;
+	width: 763px;
+	height: 67px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(104,29,89,1);
+}
+#Theres_nothing_quite_like_the_ {
+	left: 195px;
+	top: 340px;
+	position: absolute;
+	overflow: visible;
+	width: 1492px;
+	height: 48px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(109,107,108,1);
+}
+#MUSTANG_SAVVY {
+	position: absolute;
+	width: 1169px;
+	height: 404px;
+	left: 376px;
+	top: 2489px;
+	overflow: visible;
+}
+#Rectangle_2321 {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2321 {
+	position: absolute;
+	overflow: visible;
+	width: 1169px;
+	height: 404px;
+	left: 0px;
+	top: 0px;
+}
+#FEATINT-MUSTANGSAVVY {
+	position: absolute;
+	width: 409px;
+	height: 262px;
+	left: 79px;
+	top: 71px;
+	overflow: visible;
+}
+#High_Onboard_Comfort___Camaro_ {
+	left: 521px;
+	top: 85px;
+	position: absolute;
+	overflow: visible;
+	width: 531px;
+	height: 210px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(104,29,89,1);
+}
+#SYNC3 {
+	position: absolute;
+	width: 1169px;
+	height: 404px;
+	left: 376px;
+	top: 2942px;
+	overflow: visible;
+}
+#Rectangle_2320 {
+	opacity: 0.3;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2320 {
+	position: absolute;
+	overflow: visible;
+	width: 1169px;
+	height: 404px;
+	left: 0px;
+	top: 0px;
+}
+#HEAD_UP_DISPLAY__The_available {
+	left: 79px;
+	top: 114px;
+	position: absolute;
+	overflow: visible;
+	width: 568px;
+	height: 177px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(104,29,89,1);
+}
+#FEATINT-SYNC3 {
+	position: absolute;
+	width: 409.6px;
+	height: 262px;
+	left: 701.9px;
+	top: 71.5px;
+	overflow: visible;
+}
+#TRACK_APPS {
+	position: absolute;
+	width: 1169px;
+	height: 404px;
+	left: 357px;
+	top: 3373px;
+	overflow: visible;
+}
+#Rectangle_2321_cc {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2321_cc {
+	position: absolute;
+	overflow: visible;
+	width: 1169px;
+	height: 404px;
+	left: 0px;
+	top: 0px;
+}
+#FEATINT-MUSTANGSAVVY_cd {
+	position: absolute;
+	width: 409px;
+	height: 262px;
+	left: 79px;
+	top: 71px;
+	overflow: visible;
+}
+#Chevrolet_Infotainment_Stay_co {
+	left: 521px;
+	top: 126px;
+	position: absolute;
+	overflow: visible;
+	width: 531px;
+	height: 129px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(104,29,89,1);
+}
+#n_2-INCH_LCD_DIGITAL_INSTRUMEN {
+	position: absolute;
+	width: 1169px;
+	height: 404px;
+	left: 376px;
+	top: 3804px;
+	overflow: visible;
+}
+#Rectangle_2320_cg {
+	opacity: 0.3;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2320_cg {
+	position: absolute;
+	overflow: visible;
+	width: 1169px;
+	height: 404px;
+	left: 0px;
+	top: 0px;
+}
+#n_DRIVER_MODE_SELECTOR_Customi {
+	left: 79px;
+	top: 98px;
+	position: absolute;
+	overflow: visible;
+	width: 568px;
+	height: 129px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(104,29,89,1);
+}
+#FEATINT-SYNC3_ci {
+	position: absolute;
+	width: 409.6px;
+	height: 262px;
+	left: 701.9px;
+	top: 71.5px;
+	overflow: visible;
+}
+#PERFORMANCE {
+	left: 561px;
+	top: 4257px;
+	position: absolute;
+	overflow: visible;
+	width: 763px;
+	height: 67px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(104,29,89,1);
+}
+#n_0L_GT {
+	position: absolute;
+	width: 1169px;
+	height: 404px;
+	left: 376px;
+	top: 4351px;
+	overflow: visible;
+}
+#Rectangle_2321_cl {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2321_cl {
+	position: absolute;
+	overflow: visible;
+	width: 1169px;
+	height: 404px;
+	left: 0px;
+	top: 0px;
+}
+#FEATINT-MUSTANGSAVVY_cm {
+	position: absolute;
+	width: 409px;
+	height: 262px;
+	left: 79px;
+	top: 71px;
+	overflow: visible;
+}
+#ENGINE_Camaro_ZL1_SUPERCHARGED {
+	left: 521px;
+	top: 78px;
+	position: absolute;
+	overflow: visible;
+	width: 531px;
+	height: 242px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(104,29,89,1);
+}
+#DUAL_EXHAUST_AND_ACTIVE_VALVE_ {
+	position: absolute;
+	width: 1169px;
+	height: 404px;
+	left: 376px;
+	top: 4782px;
+	overflow: visible;
+}
+#Rectangle_2320_cp {
+	opacity: 0.3;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2320_cp {
+	position: absolute;
+	overflow: visible;
+	width: 1169px;
+	height: 404px;
+	left: 0px;
+	top: 0px;
+}
+#Set_things_in_motion___A_range {
+	left: 21px;
+	top: 70px;
+	position: absolute;
+	overflow: visible;
+	width: 691px;
+	height: 162px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(104,29,89,1);
+}
+#FEATINT-SYNC3_cr {
+	position: absolute;
+	width: 409.6px;
+	height: 262px;
+	left: 701.9px;
+	top: 71.5px;
+	overflow: visible;
+}
+#LAUNCH_CONTROL_AND_ELECTRONIC_ {
+	position: absolute;
+	width: 1169px;
+	height: 404px;
+	left: 376px;
+	top: 5213px;
+	overflow: visible;
+}
+#Rectangle_2321_ct {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2321_ct {
+	position: absolute;
+	overflow: visible;
+	width: 1169px;
+	height: 404px;
+	left: 0px;
+	top: 0px;
+}
+#FEATINT-MUSTANGSAVVY_cu {
+	position: absolute;
+	width: 409px;
+	height: 262px;
+	left: 79px;
+	top: 71px;
+	overflow: visible;
+}
+#Music_to_your_ears_The_availab {
+	left: 521px;
+	top: 78px;
+	position: absolute;
+	overflow: visible;
+	width: 531px;
+	height: 105px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(104,29,89,1);
+}
+#INDEPENDENT_REAR_SUSPENSION {
+	position: absolute;
+	width: 1169px;
+	height: 404px;
+	left: 376px;
+	top: 5934px;
+	overflow: visible;
+}
+#Rectangle_2320_cx {
+	opacity: 0.3;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2320_cx {
+	position: absolute;
+	overflow: visible;
+	width: 1169px;
+	height: 404px;
+	left: 0px;
+	top: 0px;
+}
+#Front_highlights__A_new_polish {
+	left: 79px;
+	top: 150px;
+	position: absolute;
+	overflow: visible;
+	width: 568px;
+	height: 129px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(104,29,89,1);
+}
+#FEATINT-SYNC3_cz {
+	position: absolute;
+	width: 409.6px;
+	height: 262px;
+	left: 701.9px;
+	top: 71.5px;
+	overflow: visible;
+}
+#SELECTABLE_ELECTRIC_POWER-ASSI {
+	position: absolute;
+	width: 1169px;
+	height: 404px;
+	left: 376px;
+	top: 6365px;
+	overflow: visible;
+}
+#Rectangle_2321_c {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2321_c {
+	position: absolute;
+	overflow: visible;
+	width: 1169px;
+	height: 404px;
+	left: 0px;
+	top: 0px;
+}
+#FEATINT-MUSTANGSAVVY_c {
+	position: absolute;
+	width: 409px;
+	height: 262px;
+	left: 79px;
+	top: 71px;
+	overflow: visible;
+}
+#n_Open_up_to_exhilaration___Th {
+	left: 521px;
+	top: 71px;
+	position: absolute;
+	overflow: visible;
+	width: 531px;
+	height: 234px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(104,29,89,1);
+}
+#LED_FRONT_LIGHTING {
+	position: absolute;
+	width: 1169px;
+	height: 404px;
+	left: 376px;
+	top: 6796px;
+	overflow: visible;
+}
+#Rectangle_2320_c {
+	opacity: 0.3;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2320_c {
+	position: absolute;
+	overflow: visible;
+	width: 1169px;
+	height: 404px;
+	left: 0px;
+	top: 0px;
+}
+#n_Style_to_stand_on_Put_the_fi {
+	left: 79px;
+	top: 88px;
+	position: absolute;
+	overflow: visible;
+	width: 568px;
+	height: 273px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(104,29,89,1);
+}
+#FEATINT-SYNC3_c {
+	position: absolute;
+	width: 409.6px;
+	height: 262px;
+	left: 701.9px;
+	top: 71.5px;
+	overflow: visible;
+}
+#SELECTABLE_ELECTRIC_POWER-ASSI_c {
+	position: absolute;
+	width: 1169px;
+	height: 404px;
+	left: 376px;
+	top: 7227px;
+	overflow: visible;
+}
+#Rectangle_2321_da {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2321_da {
+	position: absolute;
+	overflow: visible;
+	width: 1169px;
+	height: 404px;
+	left: 0px;
+	top: 0px;
+}
+#FEATINT-MUSTANGSAVVY_da {
+	position: absolute;
+	width: 409px;
+	height: 262px;
+	left: 79px;
+	top: 71px;
+	overflow: visible;
+}
+#Camaro_Color_Options_____Red_H {
+	left: 521px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 531px;
+	height: 273px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(104,29,89,1);
+}
+#Component_18__1 {
+	position: absolute;
+	width: 49px;
+	height: 29px;
+	left: 936px;
+	top: 7771px;
+	overflow: visible;
+}
+#Component_15__3 {
+	opacity: 0.05;
+	position: absolute;
+	width: 49px;
+	height: 29px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_2323 {
+	fill: rgba(39,38,38,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2323 {
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	height: 29px;
+	left: 0px;
+	top: 0px;
+}
+#Large_Arrow_-_Up {
+	transform: translate(0px, 0px) matrix(1,0,0,1,16,10) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 16px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Arrow {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(19,19,19,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: square;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Arrow {
+	overflow: visible;
+	position: absolute;
+	width: 18.828px;
+	height: 10.828px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#EXTERIOR_FEATURES {
+	left: 561px;
+	top: 5707px;
+	position: absolute;
+	overflow: visible;
+	width: 763px;
+	height: 67px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(104,29,89,1);
+}
+#Header {
+	position: absolute;
+	width: 1920px;
+	height: 247px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Menu_NAV {
+	position: absolute;
+	width: 1920px;
+	height: 247px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_2815 {
+	position: absolute;
+	width: 1920px;
+	height: 247px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_262 {
+	filter: blur(13px);
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_262 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 247px;
+	left: 0px;
+	top: 0px;
+}
+#Top_Nav {
+	position: absolute;
+	width: 987.586px;
+	height: 86.7px;
+	left: 802px;
+	top: 26.8px;
+	overflow: visible;
+}
+#Right_Nav {
+	position: absolute;
+	width: 987.586px;
+	height: 86.7px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Main_Nav {
+	position: absolute;
+	width: 316px;
+	height: 22px;
+	left: 0px;
+	top: 64.7px;
+	overflow: visible;
+}
+#Shop_dp {
+	left: 162px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(34,35,43,1);
+	text-transform: uppercase;
+}
+#Magazine_dq {
+	left: 228px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(34,35,43,1);
+	text-transform: uppercase;
+}
+#Home {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(107,29,87,1);
+	text-transform: uppercase;
+}
+#Rectangle_2257 {
+	fill: rgba(107,29,87,1);
+}
+.Rectangle_2257 {
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 2px;
+	left: 0px;
+	top: 20px;
+}
+#Home_dt {
+	left: 70px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: CHEVROLET.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(107,29,87,1);
+	text-transform: uppercase;
+}
+#Rectangle_2256 {
+	fill: transparent;
+	stroke: rgba(107,29,87,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2256 {
+	filter: drop-shadow(0px 8px 8px rgba(67, 66, 93, 0.251));
+	position: absolute;
+	overflow: visible;
+	width: 143.586px;
+	height: 72.816px;
+	left: 868px;
+	top: 0px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: sign_in.html;
+	cursor: pointer;
+}
+#Login {
+	left: 919px;
+	top: 13.7px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(107,29,87,1);
+	text-transform: uppercase;
+}
+#user_19 {
+	position: absolute;
+	width: 15.384px;
+	height: 15.384px;
+	left: 883.309px;
+	top: 16.508px;
+	overflow: visible;
+}
+#Group_2834 {
+	position: absolute;
+	width: 15.384px;
+	height: 15.384px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_18910 {
+	fill: rgba(107,29,87,1);
+	stroke: rgba(107,29,87,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_18910 {
+	overflow: visible;
+	position: absolute;
+	width: 16.383px;
+	height: 16.384px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Search {
+	position: absolute;
+	width: 1650px;
+	height: 29.303px;
+	left: 135px;
+	top: 128px;
+	overflow: visible;
+}
+#Search_Field {
+	position: absolute;
+	width: 1650px;
+	height: 29.303px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Search_d {
+	position: absolute;
+	width: 27.655px;
+	height: 27.655px;
+	left: 0px;
+	top: 0.265px;
+	overflow: visible;
+}
+#Path {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(19,19,19,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: square;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path {
+	overflow: visible;
+	position: absolute;
+	width: 11.6px;
+	height: 11.599px;
+	left: 18.885px;
+	top: 18.884px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Oval {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(19,19,19,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: square;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Oval {
+	position: absolute;
+	overflow: visible;
+	width: 24.123px;
+	height: 24.124px;
+	left: 0px;
+	top: 0px;
+}
+#Line {
+	fill: rgba(27,27,27,1);
+}
+.Line {
+	position: absolute;
+	overflow: visible;
+	width: 1285.885px;
+	height: 1.383px;
+	left: 67.063px;
+	top: 27.92px;
+}
+#Dropdown_-_Sort {
+	position: absolute;
+	width: 589.442px;
+	height: 25.124px;
+	left: 915.559px;
+	top: 4.179px;
+	overflow: visible;
+}
+#Line_d {
+	opacity: 0.1;
+	fill: rgba(27,27,27,1);
+}
+.Line_d {
+	position: absolute;
+	overflow: visible;
+	width: 589.441px;
+	height: 1.383px;
+	left: 0px;
+	top: 23.741px;
+}
+#Arrow_d {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(19,19,19,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: square;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Arrow_d {
+	overflow: visible;
+	position: absolute;
+	width: 13.891px;
+	height: 8.36px;
+	left: 576.305px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_2827 {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 1574px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_2245 {
+	fill: rgba(107,29,87,1);
+}
+.Rectangle_2245 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_2248 {
+	fill: rgba(107,29,87,1);
+}
+.Rectangle_2248 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 14px;
+}
+#Rectangle_2246 {
+	fill: rgba(107,29,87,1);
+}
+.Rectangle_2246 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 14px;
+	top: 0px;
+}
+#Rectangle_2247 {
+	fill: rgba(107,29,87,1);
+}
+.Rectangle_2247 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 14px;
+	top: 14px;
+}
+#Group_2828 {
+	position: absolute;
+	width: 24px;
+	height: 23px;
+	left: 1626px;
+	top: 1px;
+	overflow: visible;
+}
+#Rectangle_2253 {
+	fill: rgba(214,214,214,1);
+}
+.Rectangle_2253 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 3px;
+	left: 20px;
+	top: 0px;
+}
+#Rectangle_2252 {
+	fill: rgba(214,214,214,1);
+}
+.Rectangle_2252 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 3px;
+	left: 20px;
+	top: 10px;
+}
+#Rectangle_2251 {
+	fill: rgba(214,214,214,1);
+}
+.Rectangle_2251 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 3px;
+	left: 20px;
+	top: 20px;
+}
+#Rectangle_2245_eh {
+	fill: rgba(214,214,214,1);
+}
+.Rectangle_2245_eh {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 3px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_2250 {
+	fill: rgba(214,214,214,1);
+}
+.Rectangle_2250 {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 3px;
+	left: 0px;
+	top: 10px;
+}
+#Rectangle_2249 {
+	fill: rgba(214,214,214,1);
+}
+.Rectangle_2249 {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 3px;
+	left: 0px;
+	top: 20px;
+}
+#Group_9888 {
+	position: absolute;
+	width: 224px;
+	height: 92px;
+	left: 60px;
+	top: 10px;
+	overflow: visible;
+}
+#Rectangle_2324 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_2324 {
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	height: 92px;
+	left: 0px;
+	top: 0px;
+}
+#IMG_20220327_233945_408 {
+	position: absolute;
+	width: 183px;
+	height: 78px;
+	left: 19px;
+	top: 7px;
+	overflow: visible;
+}
